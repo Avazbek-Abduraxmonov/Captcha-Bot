@@ -1,2 +1,2 @@
-token = '7130866410:AAHLItlaricUOAYynPF1W6BTynlvQkESwyU'
-admin_id = 5667762268
+token = 'BOT_TOKEN'
+admin_id = admin_id # integer
